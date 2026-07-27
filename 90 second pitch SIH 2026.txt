@@ -1,0 +1,9 @@
+There's no clear way to report a broken fixture on our campus. In the hostel, complaints go into a physical book — but nothing tracks what happens next. In lecture halls, there's no channel at all.
+
+Our fix: a single, visible list — covering the hostel and every classroom — where each broken item is logged and its status kept updated until it's fixed.
+
+It's not a new app. It's the same book the hostel already uses, extended to classrooms, with one added column: status — Reported, Assigned, Fixed. The Vice Chairman updates it exactly when he already assigns a repair — no extra work for him. And now students can check it themselves instead of chasing him down.
+
+Cost: near zero — same format, one new column, under five hundred rupees, one time.
+
+It won't make repairs faster on its own — it just makes the wait visible, and there's no priority flag yet for urgent issues. But making the problem visible is what's missing right now, and that's what this fixes.
