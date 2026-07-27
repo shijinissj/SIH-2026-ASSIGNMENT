@@ -49,10 +49,8 @@ The log stays somewhere visible, so students can check it themselves instead of 
 
 ## How to View
 
-- `presentation.pdf` — the slide deck (open directly, no installation needed)
+- `SIH 2026 ASSIGNMENT.pdf` — the slide deck (open directly, no installation needed)
 - `prototype/` — the visual prototype showing the reporting flow
 - No build, install, or execution steps apply — this is a concept and presentation submission, not a running application
 
-## Demo Video
 
-[Link to your recorded pitch — host on Drive or YouTube, set to "anyone with the link can view"]
